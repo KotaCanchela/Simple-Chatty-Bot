@@ -26,7 +26,7 @@ public class SimpleBot {
 
     static void guessAge() {
         System.out.println("Let me guess your age.");
-        System.out.println("Enter remainders of dividing your age by 3, 5 and 7.");
+        System.out.println("Please enter remainders of dividing your age by 3, 5 and 7.");
         int rem3 = scanner.nextInt();
         int rem5 = scanner.nextInt();
         int rem7 = scanner.nextInt();
